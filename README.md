@@ -3,8 +3,8 @@
 ## Unit 1: Data and Analysis-- data science for investigations
 
 1. What is Data Science?
-- SQL-- data access methods
-- Intermediate Visualization (with Seaborn)
+* SQL-- data access methods
+* Intermediate Visualization (with Seaborn)
 - Experimental Design
 - **Unit 1 Capstone**
 
