@@ -5,8 +5,8 @@
 1. What is Data Science?
 * SQL-- data access methods
 * Intermediate Visualization (with Seaborn)
-- Experimental Design
-- **Unit 1 Capstone**
+* Experimental Design
+* **Unit 1 Capstone**
 
 ## Unit 2: Supervised learning
 1. Preparing to Model
