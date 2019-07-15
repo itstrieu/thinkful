@@ -1,7 +1,8 @@
 # Thinkful
 
-Naming convention: Unit.Lesson.Project
-Example: 1.3.5 is the fifth project file from Unit 1, Lesson 3--Intermediate Visualization
+File Naming Convention: Unit.Lesson.Project
+
+**Example:** 1.3.5 is the fifth project file from Unit 1, Lesson 3--Intermediate Visualization
 
 ## Unit 1: Data and Analysis-- data science for investigations
 
